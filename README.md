@@ -20,7 +20,7 @@ I am a passionate and driven **Full-Stack Web Application Developer** dedicated 
 
 - 🎓 **Education:** Computer Science Student at the University of Gondar
 - 💼 **Passion:** Full-Stack Web Development, System & Network Administration
-- 🌱 **Current Project:** Building **MedFinder** – an advanced healthcare and pharmacy ecosystem.
+- 🌱 **Current Project:** Building **Project on freelance based** .
 
 ---
 ### 🛠️ Tech Stack & Skills
