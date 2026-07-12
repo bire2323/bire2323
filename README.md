@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td align="center" valign="middle" width="30%">
-      <img src="6H2A4827(1).jpg" alt="Birhanu Derso Tegegne" width="220" style="border-radius: 50%; border: 4px solid #007acc; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" />
+    <td align="center" valign="middle" width="30%" style="padding: 20px;">
+      <img src="6H2A4827(1).jpg" alt="Birhanu Derso Tegegne" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #007acc; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" />
     </td>
-    <td valign="middle" width="70%">
+    <td valign="middle" width="70%" style="padding-left: 20px;">
       <h1>👋 Hi, I'm Birhanu Derso Tegegne!</h1>
       <p align="left">
         <a href="https://github.com/birhanuderso"><img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23007acc?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Developer" /></a>
@@ -12,6 +12,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🚀 About Me
@@ -19,7 +20,7 @@ I am a passionate and driven **Full-Stack Web Application Developer** dedicated 
 
 - 🎓 **Education:** Computer Science Student at the University of Gondar
 - 💼 **Passion:** Full-Stack Web Development, System & Network Administration
-- 🌱 **Current Project:** Building **MedFinder** – a healthcare and pharmacy platform featuring a smart prescription reader.
+- 🌱 **Current Project:** Building **MedFinder** – an advanced healthcare and pharmacy ecosystem.
 
 ---
 
@@ -64,7 +65,12 @@ I am a passionate and driven **Full-Stack Web Application Developer** dedicated 
 
 * 🏥 **MedFinder Platform**
   * **Tech Stack:** React, Laravel, FastAPI
-  * **Key Feature:** Integrated a highly efficient **Prescription Reader** leveraging specialized optical text extraction to simplify healthcare/pharmacy tasks.
+  * **Description:** A comprehensive, multi-layered healthcare and pharmacy location platform built to bridge the gap between patients, pharmacies, and medical providers.
+  * **Core Features:**
+    * **Location Services:** Dynamically finds and maps the nearest healthcare service provider or pharmacy.
+    * **Smart Drug Search & Inventory System:** Allows users to query medication availability while offering pharmacies a robust backend inventory tracker.
+    * **Real-Time Communication:** Facilitates direct, instant text chat interactions between users and healthcare agents.
+    * **Prescription Reader:** Employs an intelligent, high-accuracy FastAPI text extraction engine to read and decode physical prescriptions seamlessly.
 
 * 🛍️ **E-Commerce Application**
   * **Tech Stack:** React, Tailwind CSS, Laravel
