@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="6H2A4827(1).jpg" alt="Birhanu Derso Tegegne" width="280" style="border-radius: 15px; border: 3px solid #007acc; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</p>
+
 # 👋 Hi, I'm Birhanu Derso Tegegne!
 
 <p align="center">
