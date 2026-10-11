@@ -1,4 +1,4 @@
-```html
+
 <table>
   <tr>
     <td align="center" valign="middle" width="30%" style="padding: 20px;">
@@ -23,7 +23,7 @@
     </td>
   </tr>
 </table>
----
+
 
 ### 🚀 About Me
 I am a passionate and driven **Full-Stack Web Application Developer** dedicated to building robust, scalable, and highly efficient web and mobile applications. I enjoy solving complex architectural challenges, creating elegant user interfaces, and bridging the gap between back-end logic and front-end user experience.
