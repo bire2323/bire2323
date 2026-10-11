@@ -1,3 +1,4 @@
+```html
 <table>
   <tr>
     <td align="center" valign="middle" width="30%" style="padding: 20px;">
@@ -6,13 +7,22 @@
     <td valign="middle" width="70%" style="padding-left: 20px;">
       <h1>👋 Hi, I'm Birhanu Derso Tegegne!</h1>
       <p align="left">
-        <a href="https://github.com/bire2323"><img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23007acc?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Developer" /></a>
-        <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel%20%26%20React%20Expert-%23ff2d20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel & React" /></a>
+        <a href="https://github.com/bire2323">
+          <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23007acc?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Developer" />
+        </a>
+        <a href="https://laravel.com">
+          <img src="https://img.shields.io/badge/Laravel-%23ff2d20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+        </a>
+        <a href="https://react.dev">
+          <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        </a>
+        <a href="https://www.djangoproject.com/">
+          <img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+        </a>
       </p>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🚀 About Me
